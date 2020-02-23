@@ -1,0 +1,6 @@
+framework module xbxRNSDK {
+  umbrella header "xbxRNSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

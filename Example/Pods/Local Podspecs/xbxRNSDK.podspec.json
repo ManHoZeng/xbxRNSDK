@@ -1,0 +1,22 @@
+{
+  "name": "xbxRNSDK",
+  "version": "0.1.0",
+  "summary": "A short description of xbxRNSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iMac/xbxRNSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iMac": "443617299@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/iMac/xbxRNSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "xbxRNSDK/Classes/**/*"
+}
